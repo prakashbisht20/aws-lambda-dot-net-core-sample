@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7CNNM7p+uQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\AWSLambda_DotNetCore\\AWSLambda_DotNetCore\\AWSLambda_DotNetCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\amazon.lambda.core\\2.8.0\\amazon.lambda.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\amazon.lambda.s3events\\3.1.0\\amazon.lambda.s3events.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\awssdk.core\\4.0.3.6\\awssdk.core.4.0.3.6.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\awssdk.s3\\4.0.15.1\\awssdk.s3.4.0.15.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.25\\microsoft.netcore.app.crossgen2.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
